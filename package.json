@@ -1,0 +1,18 @@
+{
+  "name": "purgecss-from-pug-with-frontmatter",
+  "version": "1.0.0",
+  "description": "Extract CSS classes from Pug with Frontmatter",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "purgecss",
+    "pug",
+    "frontmatter"
+  ],
+  "author": "Adam Kiss",
+  "license": "ISC",
+  "dependencies": {
+    "gray-matter": "^4.0.2",
+    "purgecss-from-pug": "^2.1.0"
+  }
+}
